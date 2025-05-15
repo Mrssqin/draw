@@ -188,7 +188,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MQjwQUd3IJIm_jEPlz7Y-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1440" width="895" height="390" as="geometry" />
+          <mxGeometry x="10" y="1440" width="700" height="530" as="geometry" />
         </mxCell>
         <mxCell id="MQjwQUd3IJIm_jEPlz7Y-62" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="36.5" y="1490" width="333.5" height="200" as="geometry" />
@@ -205,17 +205,92 @@
         <mxCell id="MQjwQUd3IJIm_jEPlz7Y-67" value="&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;模型内部指标&lt;/b&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47.5" y="1580" width="111" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-68" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-68" value="&lt;b&gt;综合指标得分&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="103.25" y="1640" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MQjwQUd3IJIm_jEPlz7Y-70" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;h3 style=&quot;padding-left:0px&quot; data-morpho-block-id=&quot;docyg-ffece481-315d-11f0-9596-6b752d0b3ea1&quot; data-slate-node=&quot;element&quot; data-indent=&quot;0&quot; data-uuid=&quot;4383bc90-315a-11f0-a705-55c83ccfbb2d&quot; data-morpho-type=&quot;heading&quot; class=&quot;mp-heading&quot;&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3 style=&quot;padding-left:0px&quot; data-morpho-block-id=&quot;docyg-a0ffa141-3169-11f0-9596-6b752d0b3ea1&quot; data-slate-node=&quot;element&quot; data-indent=&quot;0&quot; data-uuid=&quot;da889be8-3161-11f0-a705-55c83ccfbb2d&quot; data-morpho-type=&quot;heading&quot; class=&quot;mp-heading&quot;&gt;&amp;nbsp;实时指标采集与流式反馈模块&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="1450" width="310" height="30" as="geometry" />
+          <mxGeometry x="205" y="1450" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.644;exitY=0.925;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MQjwQUd3IJIm_jEPlz7Y-65" target="MQjwQUd3IJIm_jEPlz7Y-68">
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.644;exitY=0.925;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="MQjwQUd3IJIm_jEPlz7Y-65" target="MQjwQUd3IJIm_jEPlz7Y-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="1690" as="sourcePoint" />
             <mxPoint x="420" y="1640" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0.434;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MQjwQUd3IJIm_jEPlz7Y-67" target="MQjwQUd3IJIm_jEPlz7Y-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="156" y="1567" as="sourcePoint" />
+            <mxPoint x="202" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-74" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="MQjwQUd3IJIm_jEPlz7Y-63" target="MQjwQUd3IJIm_jEPlz7Y-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="156" y="1567" as="sourcePoint" />
+            <mxPoint x="202" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-75" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.569;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MQjwQUd3IJIm_jEPlz7Y-66" target="MQjwQUd3IJIm_jEPlz7Y-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="1570" as="sourcePoint" />
+            <mxPoint x="225" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-76" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1490" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-77" value="&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;时间窗口对比评估&lt;/b&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1520" width="40" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-81" value="&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;鲁棒性验证机制&lt;/b&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="628.25" y="1520" width="40" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-82" value="&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;用户分群对照评估&lt;/b&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1520" width="40" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="1754" width="333.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-84" value="&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;单一目标最优策略&lt;/b&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1784" width="111" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-85" value="&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;收益风险平衡策略&lt;/b&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="1834" width="111" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-86" value="&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;Pareto最优策略&lt;/b&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="557.25" y="1834" width="111" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-87" value="&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;主观质量指标&lt;/b&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411.87" y="1904" width="195.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="MQjwQUd3IJIm_jEPlz7Y-84" target="MQjwQUd3IJIm_jEPlz7Y-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="156" y="1611" as="sourcePoint" />
+            <mxPoint x="202" y="1694" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-89" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MQjwQUd3IJIm_jEPlz7Y-85" target="MQjwQUd3IJIm_jEPlz7Y-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="516" y="1834" as="sourcePoint" />
+            <mxPoint x="502" y="1907" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MQjwQUd3IJIm_jEPlz7Y-86" target="MQjwQUd3IJIm_jEPlz7Y-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="516" y="1834" as="sourcePoint" />
+            <mxPoint x="519" y="1914" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-91" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="1750" width="192.5" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-92" value="&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;指标变化趋势图&lt;/b&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84.5" y="1794" width="135.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-93" value="&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;对比分析报告生成&lt;/b&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84.5" y="1850" width="135.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MQjwQUd3IJIm_jEPlz7Y-94" value="&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: bold;&quot;&gt;手动干预接口&lt;/b&gt;&lt;span class=&quot;mp-morpho-clipboard-doc-data&quot; data-morpho-doc-data=&quot;{&amp;quot;token&amp;quot;:&amp;quot;eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiYXBwSWQiOjEsInVpZCI6Ik9UTGszSzE0MUIiLCJkb2NJZCI6Iklva3RoRm1QRExmdTJzIn0..PLM695F7OLUKYBq6.pLq-FQjPBczpItmwOh4ZW0uYPRhOBlbCz8YWpCEhhjt7BF-pnjSfnWdu2Fmjc7VXdDRBUoyjT-BpY-ALlnl2OXvZNR3gXWINHDP6lU0rGojfuVU5cC1_3ToAKtlT7ybksPMMETnjsgNX-z2ijbktiFu4n567qZCZvo0vowr3_w3CYDpdbulUg-4RivVGqKluaLaf5slXxZTphLpaeCs-46T8Pw.FYQd-wOyFWTnTlqUN4SDpg&amp;quot;,&amp;quot;appId&amp;quot;:&amp;quot;1&amp;quot;}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84.5" y="1904" width="135.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
