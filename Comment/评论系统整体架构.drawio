@@ -1,11 +1,76 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.1.1">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="954" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xZ4nOkgO-wRPjRgi359v-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="80" width="760" height="480" as="geometry" />
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MXNtukU6IiAn1s-4hL2a-1" target="MXNtukU6IiAn1s-4hL2a-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-1" value="百度APP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="210" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MXNtukU6IiAn1s-4hL2a-2" target="MXNtukU6IiAn1s-4hL2a-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-2" value="百度APP 老年版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MXNtukU6IiAn1s-4hL2a-3" target="MXNtukU6IiAn1s-4hL2a-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-3" value="百度APP Lite版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MXNtukU6IiAn1s-4hL2a-4" target="MXNtukU6IiAn1s-4hL2a-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-4" value="文心一言APP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MXNtukU6IiAn1s-4hL2a-5" target="MXNtukU6IiAn1s-4hL2a-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-5" value="心响APP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="210" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MXNtukU6IiAn1s-4hL2a-6" target="MXNtukU6IiAn1s-4hL2a-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-6" value="荣耀白牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="210" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MXNtukU6IiAn1s-4hL2a-7" target="MXNtukU6IiAn1s-4hL2a-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-7" value="BFE 百度统一前端网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="350" width="1080" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MXNtukU6IiAn1s-4hL2a-16" target="MXNtukU6IiAn1s-4hL2a-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-16" value="Janus百度APP统一外网网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-47.5" y="430" width="795" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-17" value="icomment 评论手百接入层" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="510" width="1010" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-19" value="unicomment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="610" width="470" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-20" value="贴吧UGC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="610" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-21" value="猜评GR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="610" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-22" value="关注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="610" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MXNtukU6IiAn1s-4hL2a-23" value="comment-uni" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="610" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
